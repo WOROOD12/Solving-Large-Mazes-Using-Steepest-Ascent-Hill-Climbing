@@ -37,7 +37,8 @@ Make sure you have Python and matplotlib installed:
 
 ```bash
 pip install matplotlib
-
+```
 ##Then run the experiment code
+```bash
 python hill_climbing_final_analysis.py
 
